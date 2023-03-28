@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="spinner">#e0e0e0</color>
+    <color name="registro_primary">#009688</color>
+    <color name="registro_primary_variant">#00675b</color>
+    <color name="registro_secundary">#ffc107</color>
+    <color name="registro_secundary_variant">#FDD86A</color>
+    <color name="registro_on_primary">#FFFFFFFF</color>
+    <color name="registro_on_secundary">#FFFFFFFF</color>
+    <color name="regristro_bg">#cffff6</color>
+
+
+</resources>

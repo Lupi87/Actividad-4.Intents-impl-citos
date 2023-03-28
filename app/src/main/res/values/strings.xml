@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="registro_name">¿Como te llamas?</string>
+    <string name="registro_last_name">¿Y tu apellido?</string>
+    <string name="bnt_register">Me apunto</string>
+    <string name="politica">Politica de privacidad</string>
+    <string name="condiciones">Ver Condiciones</string>
+    <string name="edad">¿Cuantos años tienes?</string>
+    <string name="error">Ups, no creo que sea correcto, revísalo</string>
+    <string name="error2">Esta app no es para ti</string>
+
+
+
+
+</resources>

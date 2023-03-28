@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Registro" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/registro_primary</item>
+        <item name="colorPrimaryVariant">@color/registro_primary_variant</item>
+        <item name="colorOnPrimary">@color/registro_on_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/registro_secundary</item>
+        <item name="colorSecondaryVariant">@color/registro_secundary_variant</item>
+        <item name="colorOnSecondary">@color/registro_on_secundary</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:colorBackground">@color/regristro_bg</item>
+    </style>
+</resources>
